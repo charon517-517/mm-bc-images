@@ -1,0 +1,13 @@
+{
+  "questions": 224,
+  "questions_with_images": 130,
+  "questions_without_images": 94,
+  "image_files": 138,
+  "image_bytes": 140936170,
+  "images_per_question": {
+    "0": 94,
+    "1": 122,
+    "2": 8
+  },
+  "subset": "original224"
+}
